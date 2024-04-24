@@ -1,6 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { removeTicket, updateTicket } from "../reduxtk/ticketSlice";
+import {
+  removeTicket,
+  updateLoginStatus,
+  updateTicket,
+} from "../reduxtk/ticketSlice";
 import "react-datepicker/dist/react-datepicker.css";
 import { Link } from "react-router-dom";
 import AddTicket from "./AddTicket";
@@ -21,6 +25,7 @@ function Tickets() {
     setFinalTickets(JSON.parse(localStorage.getItem("storedTickets")));
   }, []);
   const dispatch = useDispatch();
+  dispatch(updateLoginStatus(true));
   const filterByStatus = () => {
     if (filterValue == "all") {
       setFinalTickets(tickets);
