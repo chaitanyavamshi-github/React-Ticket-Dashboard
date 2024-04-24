@@ -54,6 +54,7 @@ function AddTicket() {
         onChange={(date) => setSelectedDate(date)}
         dateFormat="dd/MM/yyyy"
         isClearable
+        minDate={new Date()}
         showYearDropdown
         showMonthDropdown
       />
