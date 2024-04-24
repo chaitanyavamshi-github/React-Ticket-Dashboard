@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+Please follow the steps mentioned in the following doc to download and run the project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link - https://www.geeksforgeeks.org/how-to-download-a-react-project-from-github-and-run-in-my-pc/
 
-## Available Scripts
+Please find below screenshots of the application for reference : 
 
-In the project directory, you can run:
+SIGNUP SCREEN - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/6dc0008e-0316-46e5-be17-cefbd11d22c6)
 
-### `npm start`
+LOGIN SCREEN - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/2b5d750c-8a1f-44de-8b33-fab7829c7580)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+DASHBOARD SCREEN - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/7f231203-f181-4432-a949-a3fdca89b049)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ADD NEW TASK SCREEN - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/2598ca63-7a3e-40d8-b5e0-8cf596e26b28)
 
-### `npm test`
+TICKET LIST - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/b8342986-1fad-44a0-9ac1-778006373f45)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+UPDATE TICKET - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/602c79e4-f0d1-4f8d-8d64-3c1052673eb0)
 
-### `npm run build`
+FILTER OPTION - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/2acb7e79-0ffe-4eee-afec-6b6ad84fa2c4)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+SEARCH OPTION - ![image](https://github.com/chaitanyavamshi-github/React-Ticket-Dashboard/assets/75603692/9b3d4f15-9e47-4e16-bc20-49328b9a907d)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
